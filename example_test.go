@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/go-martini/martini"
-	goauth2 "github.com/golang/oauth2"
-	"github.com/martini-contrib/oauth2"
+	goauth2 "github.com/handlename/golang-oauth2"
+	"github.com/handlename/martini-contrib-oauth2"
 	"github.com/martini-contrib/sessions"
 )
 
